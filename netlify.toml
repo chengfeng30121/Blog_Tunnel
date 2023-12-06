@@ -1,4 +1,4 @@
 [[redirects]]
-  from = "/"
+  from = "/*"
   to = "https://cf3012.eu.org/:splat"
   status = 200
